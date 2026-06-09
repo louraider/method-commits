@@ -1,0 +1,22 @@
+{
+  "buySet": [
+    "ADBE",
+    "NVDA"
+  ],
+  "date": "2026-06-08",
+  "methodVersion": "v0b.1",
+  "positions": [
+    {
+      "entryDate": "2026-06-05",
+      "entryPriceUsd": "258.42",
+      "shares": "4.83708691",
+      "ticker": "ADBE"
+    },
+    {
+      "entryDate": "2026-06-04",
+      "entryPriceUsd": "214.75",
+      "shares": "5.82072177",
+      "ticker": "NVDA"
+    }
+  ]
+}
