@@ -1,0 +1,43 @@
+{
+  "buySet": [
+    "ADBE",
+    "FOXA",
+    "NEM",
+    "NVDA",
+    "PGR"
+  ],
+  "date": "2026-07-28",
+  "methodVersion": "v0b.1",
+  "positions": [
+    {
+      "entryDate": "2026-07-19",
+      "entryPriceUsd": "237.25",
+      "shares": "5.26870390",
+      "ticker": "ADBE"
+    },
+    {
+      "entryDate": "2026-07-07",
+      "entryPriceUsd": "54.92",
+      "shares": "22.76037873",
+      "ticker": "FOXA"
+    },
+    {
+      "entryDate": "2026-06-30",
+      "entryPriceUsd": "93.40",
+      "shares": "13.38329764",
+      "ticker": "NEM"
+    },
+    {
+      "entryDate": "2026-06-04",
+      "entryPriceUsd": "214.75",
+      "shares": "5.82072177",
+      "ticker": "NVDA"
+    },
+    {
+      "entryDate": "2026-07-07",
+      "entryPriceUsd": "234.40",
+      "shares": "5.33276451",
+      "ticker": "PGR"
+    }
+  ]
+}
