@@ -1,0 +1,36 @@
+{
+  "buySet": [
+    "NEM",
+    "NVDA",
+    "PGR",
+    "SPG"
+  ],
+  "date": "2026-09-03",
+  "methodVersion": "v0b.1",
+  "positions": [
+    {
+      "entryDate": "2026-06-30",
+      "entryPriceUsd": "93.40",
+      "shares": "13.38329764",
+      "ticker": "NEM"
+    },
+    {
+      "entryDate": "2026-06-04",
+      "entryPriceUsd": "214.75",
+      "shares": "5.82072177",
+      "ticker": "NVDA"
+    },
+    {
+      "entryDate": "2026-07-07",
+      "entryPriceUsd": "234.40",
+      "shares": "5.33276451",
+      "ticker": "PGR"
+    },
+    {
+      "entryDate": "2026-08-16",
+      "entryPriceUsd": "219.58",
+      "shares": "5.69268604",
+      "ticker": "SPG"
+    }
+  ]
+}
